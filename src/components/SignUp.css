@@ -1,0 +1,19 @@
+/* src/SignUp.css */
+.signup-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh; /* This centers it vertically */
+    text-align: center;
+  }
+  
+  .signup-container form {
+    width: 300px; /* Adjust the width as needed */
+    margin: 20px;
+  }
+  
+  .signup-container button {
+    margin-top: 10px;
+  }
+  
